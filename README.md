@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Noodlot
-- 👀 I’m interested in cybersecurity, machine learning and the cloud.
-- 🌱 I’m currently learning securing cloud apps.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? csak.csongor@gmail.com
+- 👋 Hi.
 
 <!---
 Noodlot/Noodlot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
